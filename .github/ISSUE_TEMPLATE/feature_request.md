@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Schlage ein neues Feature für dieses Plugin vor
+about: Schlage ein neues Feature oder Verbesserung für den Server vor
 title: ''
 labels: ''
 assignees: ''
